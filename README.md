@@ -1,7 +1,7 @@
 # SCP1162
 SCP1162 Qurre
 
-https://mega.nz/file/I2oyGDwD#TZAUzZsDYYs0GROvpu3HtJlHG9HAmImnZu2Nz5JnsWI
+![](https://mega.nz/file/I2oyGDwD#TZAUzZsDYYs0GROvpu3HtJlHG9HAmImnZu2Nz5JnsWI)
 
 ## Description
 Adds a SCP-1162 hole to the SCP-330 room.
